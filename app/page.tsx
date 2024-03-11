@@ -58,7 +58,7 @@ export default function Home() {
               </a>
             </li>
             <li>
-              <a href="https://instagram.com/valindio">
+              <a href="https://instagram.com/valindio_r">
                 <Image
                   src={instagramIcon}
                   alt="github profile"
